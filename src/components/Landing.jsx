@@ -50,6 +50,7 @@ const Landing = () => {
                     muted
                     autoPlay
                     loop
+                    playsInline
                     src={landingVideo}></motion.video>
                 </div>
             </div>
